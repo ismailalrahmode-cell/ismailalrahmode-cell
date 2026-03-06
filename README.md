@@ -1,8 +1,8 @@
 # Hi, I'm Ismail Alrahmo 
--💻 I'm a Full Stack Developer
--🌐 I build web applications from frontend to backend
--🦀 Currently learning Rust
--🔧 Passionate about Embedded Systems
+-💻 I'm a Full Stack Developer <br>
+-🌐 I build web applications from frontend to backend <br>
+-🦀 Currently learning Rust <br>
+-🔧 Passionate about Embedded Systems <br>
 <!--
 **ismailalrahmode-cell/ismailalrahmode-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
